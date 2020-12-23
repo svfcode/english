@@ -2,3 +2,6 @@
 hook - крюк
 observer - наблюдатель
 dispatch - отправка, быстрое выполнение
+
+## Adjective
+versatile - универсальный
