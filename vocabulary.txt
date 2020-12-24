@@ -2,6 +2,9 @@
 hook - крюк
 observer - наблюдатель
 dispatch - отправка, быстрое выполнение
+maintenance - поддержка
 
 ## Adjective
 versatile - универсальный
+separate - отдельный
+bundle - пакет
