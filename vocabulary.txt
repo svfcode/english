@@ -8,3 +8,8 @@ maintenance - поддержка
 versatile - универсальный
 separate - отдельный
 bundle - пакет
+precise - точный, четкий
+
+in particular - в частности
+useless - бесполезный
+
