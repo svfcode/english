@@ -10,6 +10,11 @@ separate - отдельный
 bundle - пакет
 precise - точный, четкий
 
+ ## Verb
+ allow - разрешать
+ fiddle - играть
+ perform - выполнять
+
 in particular - в частности
 useless - бесполезный
 
