@@ -17,4 +17,6 @@ precise - точный, четкий
 
 in particular - в частности
 useless - бесполезный
+explicity - явно
+thoroughly - тщательно
 
