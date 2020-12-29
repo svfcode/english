@@ -14,6 +14,7 @@ precise - точный, четкий
  allow - разрешать
  fiddle - играть
  perform - выполнять
+ interaction - взаимодействие
 
 in particular - в частности
 useless - бесполезный
