@@ -15,6 +15,7 @@ precise - точный, четкий
  fiddle - играть
  perform - выполнять
  interaction - взаимодействие
+ overflow - разливаться
 
 in particular - в частности
 useless - бесполезный
