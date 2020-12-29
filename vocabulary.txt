@@ -16,6 +16,7 @@ precise - точный, четкий
  perform - выполнять
  interaction - взаимодействие
  overflow - разливаться
+ stretch - растягивать
 
 in particular - в частности
 useless - бесполезный
