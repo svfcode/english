@@ -17,6 +17,7 @@ precise - точный, четкий
  interaction - взаимодействие
  overflow - разливаться
  stretch - растягивать
+ truncate - усекать
 
 in particular - в частности
 useless - бесполезный
