@@ -24,3 +24,5 @@ useless - бесполезный
 explicity - явно
 thoroughly - тщательно
 propagation - распространение
+necessary - необходимо
+therefore - поэтому
