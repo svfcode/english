@@ -18,6 +18,7 @@ precise - точный, четкий
  overflow - разливаться
  stretch - растягивать
  truncate - усекать
+ deploy - развернуть
 
 in particular - в частности
 useless - бесполезный
