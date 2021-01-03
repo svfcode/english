@@ -30,3 +30,4 @@ therefore - поэтому
 accident - несчастный случай
 failure - ошибка
 recently - недавно
+inspiration - вдохновлять
