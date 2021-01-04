@@ -10,6 +10,7 @@ separate - отдельный
 bundle - пакет
 precise - точный, четкий
 refused - отвергнутый
+expensive - дорогой
 
  ## Verb
  allow - разрешать
@@ -32,3 +33,4 @@ accident - несчастный случай
 failure - ошибка
 recently - недавно
 inspiration - вдохновлять
+postpone - отложить
