@@ -9,6 +9,7 @@ versatile - универсальный
 separate - отдельный
 bundle - пакет
 precise - точный, четкий
+refused - отвергнутый
 
  ## Verb
  allow - разрешать
