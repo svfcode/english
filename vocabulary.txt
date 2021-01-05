@@ -34,3 +34,4 @@ failure - ошибка
 recently - недавно
 inspiration - вдохновлять
 postpone - отложить
+suspense - неизвестность
