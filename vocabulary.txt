@@ -35,3 +35,5 @@ recently - недавно
 inspiration - вдохновлять
 postpone - отложить
 suspense - неизвестность
+implement - реализация
+thus - следовательно
