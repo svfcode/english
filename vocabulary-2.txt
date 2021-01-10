@@ -4,3 +4,4 @@ to burn - записывать на оптический диск
 to compile - компилировать
 to eject - извлекать
 to implement - внедрять
+advantage - преимущество
