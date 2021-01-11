@@ -5,3 +5,4 @@ to compile - компилировать
 to eject - извлекать
 to implement - внедрять
 advantage - преимущество
+legacy - достояние, наследство
