@@ -6,3 +6,5 @@ to eject - извлекать
 to implement - внедрять
 advantage - преимущество
 legacy - достояние, наследство
+a bus - шина
+a kernel - ядро
