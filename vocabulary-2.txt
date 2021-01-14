@@ -9,3 +9,4 @@ legacy - достояние, наследство
 a bus - шина
 a kernel - ядро
 flush - смыть
+exсeption - исключение
