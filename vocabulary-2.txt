@@ -12,3 +12,4 @@ flush - смыть
 exсeption - исключение
 artisan - ремесленник
 template - шаблон
+pattern - образец
