@@ -11,3 +11,4 @@ a kernel - ядро
 flush - смыть
 exсeption - исключение
 artisan - ремесленник
+template - шаблон
