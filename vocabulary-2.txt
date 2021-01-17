@@ -13,3 +13,4 @@ exсeption - исключение
 artisan - ремесленник
 template - шаблон
 pattern - образец
+survive - выжить
