@@ -1,3 +1,7 @@
 reduction - сокращение
 
 btw - by the way - кстати
+cgi - common gateway interface
+sql - structured query language
+svg - scalable vector graphics
+rss - really simple syndication - простое распространнение по подписке
