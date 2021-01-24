@@ -17,3 +17,4 @@ survive - выжить
 vendor - поставщик
 assets - активы
 enumeration - перечесление
+extension - расширение
