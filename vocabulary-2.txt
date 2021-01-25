@@ -18,3 +18,4 @@ vendor - поставщик
 assets - активы
 enumeration - перечесление
 extension - расширение
+denied - отказано
