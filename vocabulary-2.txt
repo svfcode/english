@@ -19,3 +19,4 @@ assets - активы
 enumeration - перечесление
 extension - расширение
 denied - отказано
+exclude - исключать
