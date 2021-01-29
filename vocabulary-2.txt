@@ -20,3 +20,4 @@ enumeration - перечесление
 extension - расширение
 denied - отказано
 exclude - исключать
+restrict - ограничивать
