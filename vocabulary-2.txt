@@ -21,3 +21,4 @@ extension - расширение
 denied - отказано
 exclude - исключать
 restrict - ограничивать
+omit - пренебрегать
