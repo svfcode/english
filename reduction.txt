@@ -6,3 +6,4 @@ sql - structured query language
 svg - scalable vector graphics
 rss - really simple syndication - простое распространнение по подписке
 blob - binary large object
+xss - cross-original scripting, "x" use for avoid dificult with match to css (cascading style sheat)
