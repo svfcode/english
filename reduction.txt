@@ -12,3 +12,4 @@ compose - сочинять
 owasp - open web application security project
 rfc - request for comments
 PaaS - playform as a service
+FPM - FastCGI process manager
