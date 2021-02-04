@@ -13,3 +13,4 @@ owasp - open web application security project
 rfc - request for comments
 PaaS - playform as a service
 FPM - FastCGI process manager
+ORM - Object-relational mapping - объектно-реляционная карта(преобразование)
