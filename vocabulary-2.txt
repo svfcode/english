@@ -22,3 +22,6 @@ denied - отказано
 exclude - исключать
 restrict - ограничивать
 omit - пренебрегать
+guest - гость
+revert - возвращать
+prohibit - препятствовать
