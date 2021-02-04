@@ -26,3 +26,5 @@ guest - гость
 revert - возвращать
 prohibit - препятствовать
 bound - связывание
+compose - сочинять
+shuffle - смешивать
