@@ -11,3 +11,4 @@ pdo - php data objects
 compose - сочинять
 owasp - open web application security project
 rfc - request for comments
+PaaS - playform as a service
