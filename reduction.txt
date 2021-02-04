@@ -10,3 +10,4 @@ xss - cross-original scripting, "x" use for avoid dificult with match to css (ca
 pdo - php data objects
 compose - сочинять
 owasp - open web application security project
+rfc - request for comments
