@@ -14,3 +14,4 @@ rfc - request for comments
 PaaS - playform as a service
 FPM - FastCGI process manager
 ORM - Object-relational mapping - объектно-реляционная карта(преобразование)
+IRC - internet relay chat
