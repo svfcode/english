@@ -9,3 +9,4 @@ blob - binary large object
 xss - cross-original scripting, "x" use for avoid dificult with match to css (cascading style sheat)
 pdo - php data objects
 compose - сочинять
+owasp - open web application web project
