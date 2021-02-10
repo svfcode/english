@@ -16,3 +16,5 @@ FPM - FastCGI process manager
 ORM - Object-relational mapping - объектно-реляционная карта(преобразование)
 IRC - internet relay chat
 PUG - php user group
+RPC - remote procedure call
+SOAP - simple object access protocol
