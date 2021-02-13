@@ -33,3 +33,4 @@ void - пустота
 generic - универсальный
 anchor - якорь
 prepend - добавлять
+changeover - переключение
