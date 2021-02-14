@@ -34,3 +34,4 @@ generic - универсальный
 anchor - якорь
 prepend - добавлять
 changeover - переключение
+gather - собирать
