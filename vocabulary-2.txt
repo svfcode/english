@@ -35,3 +35,4 @@ anchor - якорь
 prepend - добавлять
 changeover - переключение
 gather - собирать
+kernel - ядро
