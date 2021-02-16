@@ -2,6 +2,7 @@
 
 ## Singleton (одиночка)
 
-# Creational patterns
+# Creational patterns - порождающие шаблоны
 
-Factory
+
+Factory - фабрика
