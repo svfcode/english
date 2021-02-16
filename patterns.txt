@@ -1,3 +1,7 @@
 # Generating patterns
 
 ## Singleton (одиночка)
+
+# Creational patterns
+
+Factory
