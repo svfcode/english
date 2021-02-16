@@ -1,3 +1,5 @@
+# GoF - Gang of four - банда четырех
+
 # Creational(Generating) patterns - порождающие шаблоны
 
 - Singleton - одиночка
