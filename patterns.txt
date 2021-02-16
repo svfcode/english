@@ -1,8 +1,4 @@
-# Generating patterns
+# Creational(Generating) patterns - порождающие шаблоны
 
-## Singleton (одиночка)
-
-# Creational patterns - порождающие шаблоны
-
-
-Factory - фабрика
+- Singleton - одиночка
+- Factory - фабрика
