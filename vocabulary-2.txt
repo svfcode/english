@@ -36,3 +36,4 @@ prepend - добавлять
 changeover - переключение
 gather - собирать
 kernel - ядро
+accuracy - точность
