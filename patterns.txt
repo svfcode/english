@@ -1,7 +1,9 @@
 # GoF - Gang of four - банда четырех
 
-# Creational(Generating) patterns - порождающие шаблоны
+# Fundamental
 
+
+# Creational(Generating) patterns - порождающие шаблоны
 - Singleton - одиночка
 - Factory - фабрика
 - Abstract factory - абстрактная фабрика
