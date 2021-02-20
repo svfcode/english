@@ -2,6 +2,7 @@
 
 # Fundamental
 - Property container
+- Delegation - делегирование
 
 # Creational(Generating) patterns - порождающие шаблоны
 - Singleton - одиночка
