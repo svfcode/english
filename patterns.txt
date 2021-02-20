@@ -1,7 +1,7 @@
 # GoF - Gang of four - банда четырех
 
 # Fundamental
-
+- Property container
 
 # Creational(Generating) patterns - порождающие шаблоны
 - Singleton - одиночка
