@@ -4,3 +4,4 @@
 
 - Singleton - одиночка
 - Factory - фабрика
+- Abstract factory - абстрактная фабрика
