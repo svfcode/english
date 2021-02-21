@@ -1,1 +1,2 @@
 QA - quality assurance - гарантия качества
+notify - уведомлять
