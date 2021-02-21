@@ -3,6 +3,7 @@
 # Fundamental
 - Property container
 - Delegation - делегирование
+- Event channel - канал событий
 
 # Creational(Generating) patterns - порождающие шаблоны
 - Singleton - одиночка
