@@ -2,3 +2,4 @@ QA - quality assurance - гарантия качества
 notify - уведомлять
 scraping - соскоб
 parsing - разбор
+capes - накидка
