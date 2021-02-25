@@ -5,3 +5,4 @@ parsing - разбор
 capes - накидка
 expire - истек
 redundant - избыточный
+assoc - сопоставление
