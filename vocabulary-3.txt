@@ -7,3 +7,4 @@ expire - истек
 redundant - избыточный
 assoc - сопоставление
 slug - кусок
+tile - плитка
