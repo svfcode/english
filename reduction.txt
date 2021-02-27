@@ -18,3 +18,5 @@ IRC - internet relay chat
 PUG - php user group
 RPC - remote procedure call
 SOAP - simple object access protocol
+SAP - system analysis and program development
+ERP - enterprise resource planning
