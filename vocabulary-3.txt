@@ -10,3 +10,4 @@ slug - кусок
 tile - плитка
 rug - коврик
 product - произведение (math)
+implement - инструмент, средство
