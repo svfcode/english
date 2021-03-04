@@ -12,5 +12,5 @@
 - Prototype - прообраз
 
 # Behavior - поведенческие
-- Memento - снимок
+- Memento - снимок, хранитель
 - Observer - наблюдатель
