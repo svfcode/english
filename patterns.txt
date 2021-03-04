@@ -10,3 +10,7 @@
 - Factory - фабрика
 - Abstract factory - абстрактная фабрика
 - Prototype - прообраз
+
+# Behavior - поведенческие
+- Memento - снимок
+- Observer - наблюдатель
