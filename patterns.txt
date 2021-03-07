@@ -16,3 +16,5 @@
 - Observer - наблюдатель
 - Visitor - посетитель
 - State - состояние
+- Iterator - итератор
+- Mediator - посредник
