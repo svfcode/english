@@ -20,3 +20,4 @@ RPC - remote procedure call
 SOAP - simple object access protocol
 SAP - system analysis and program development
 ERP - enterprise resource planning
+UTF - Unicode Transformation Format
