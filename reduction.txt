@@ -22,3 +22,5 @@ SAP - system analysis and program development
 ERP - enterprise resource planning
 UTF - Unicode Transformation Format
 HRU - Human Readable Url
+URL - Uniform Resource Locator
+URI - Uniform Resource Identifier
