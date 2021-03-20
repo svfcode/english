@@ -17,3 +17,5 @@ except - кроме
 stash - спрятать
 chunking - свертывание
 gist - суть, истинный смыссл
+override - перезапись
+accordance - соответствии
