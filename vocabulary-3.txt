@@ -20,3 +20,4 @@ gist - суть, истинный смыссл
 override - перезапись
 accordance - соответствии
 spare - запасной
+processing - обработка
