@@ -21,3 +21,4 @@ override - перезапись
 accordance - соответствии
 spare - запасной
 processing - обработка
+alias - псевдоним
