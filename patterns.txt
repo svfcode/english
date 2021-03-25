@@ -13,6 +13,7 @@
 
 # Structural
 - Adapter/Wrapper - адаптер
+- Bridge - мост
 
 # Behavior - поведенческие
 - Memento - снимок, хранитель
@@ -21,4 +22,4 @@
 - State - состояние
 - Iterator - итератор
 - Mediator - посредник
-- Bridge - мост
+
