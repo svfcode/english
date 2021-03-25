@@ -11,6 +11,9 @@
 - Abstract factory - абстрактная фабрика
 - Prototype - прообраз
 
+# Structural
+- Adapter/Wrapper - адаптер
+
 # Behavior - поведенческие
 - Memento - снимок, хранитель
 - Observer - наблюдатель
@@ -18,3 +21,4 @@
 - State - состояние
 - Iterator - итератор
 - Mediator - посредник
+- Bridge - мост
