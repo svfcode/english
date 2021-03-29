@@ -24,3 +24,6 @@ processing - обработка
 alias - псевдоним
 artisan - ремесленник
 lint - бинт
+recovery - подъем
+recession - спад
+trough - дно
