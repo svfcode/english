@@ -27,3 +27,4 @@ lint - бинт
 recovery - подъем
 recession - спад
 trough - дно
+yield - уступать, принести, привезти
