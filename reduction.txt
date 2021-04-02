@@ -24,3 +24,4 @@ UTF - Unicode Transformation Format
 HRU - Human Readable Url
 URL - Uniform Resource Locator
 URI - Uniform Resource Identifier
+CI/CD - Continuous Integration / Continuous Delivery
