@@ -28,3 +28,4 @@ recovery - подъем
 recession - спад
 trough - дно
 yield - уступать, принести, привезти
+eloquen - убедительный
