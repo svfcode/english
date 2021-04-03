@@ -29,3 +29,4 @@ recession - спад
 trough - дно
 yield - уступать, принести, привезти
 eloquen - убедительный
+greeting - приветствие
