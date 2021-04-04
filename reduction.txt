@@ -25,3 +25,4 @@ HRU - Human Readable Url
 URL - Uniform Resource Locator
 URI - Uniform Resource Identifier
 CI/CD - Continuous Integration / Continuous Delivery
+GRASP - General Responsibility Assignment Software Patterns - общие шаблоны распределения ответственностей
