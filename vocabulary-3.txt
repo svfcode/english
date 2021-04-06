@@ -32,3 +32,4 @@ eloquen - убедительный
 greeting - приветствие
 seed - семя
 stack - стопка
+forbidden - запрещенный
