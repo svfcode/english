@@ -1,5 +1,7 @@
 # GoF - Gang of four - банда четырех
 
+# GRASP - General Responsibility Assignment Software Patterns - общие шаблоны распределения ответственностей
+
 # Fundamental
 - Property container
 - Delegation - делегирование
