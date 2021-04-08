@@ -33,3 +33,4 @@ greeting - приветствие
 seed - семя
 stack - стопка
 forbidden - запрещенный
+shine - сиять
