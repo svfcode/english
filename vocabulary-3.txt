@@ -34,3 +34,4 @@ seed - семя
 stack - стопка
 forbidden - запрещенный
 shine - сиять
+capacity - вместимость
