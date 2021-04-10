@@ -1,0 +1,3 @@
+SOLID
+- SRP - single responsibility principle
+  . (принцип единственной обязанности)
