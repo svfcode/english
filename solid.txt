@@ -5,6 +5,8 @@ SOLID
   . (класс открыт для расширения и закрыт для изменения)
 - LSP - Liskov substitution principle
   . (принцип подстановки Барбары Лисков)
+  . поведение наследуемых классов не должно противоречить
+  . базовому классу (быть ожидаемым)
 - ISP - interface segregation principle
   . (принцип разделения интерфейса)
 - DIP - dependency inversion principle
