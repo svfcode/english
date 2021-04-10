@@ -3,7 +3,8 @@
 # GRASP - General Responsibility Assignment Software Patterns - общие шаблоны распределения ответственностей
 
 # Fundamental
-- Property container
+- Property container - контейнер свойств
+  . дает возможность добавлять свойства в уже созданный класс
 - Delegation - делегирование
 - Event channel - канал событий
 
