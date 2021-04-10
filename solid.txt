@@ -1,3 +1,11 @@
 SOLID
 - SRP - single responsibility principle
   . (принцип единственной обязанности)
+- OCP - open/closed principle
+  . (класс открыт для расширения и закрыт для изменения)
+- LSP - Liskov substitution principle
+  . (принцип подстановки Барбары Лисков)
+- ISP - interface segregation principle
+  . (принцип разделения интерфейса)
+- DIP - dependency inversion principle
+  . (принцип инверсии зависимостей)
