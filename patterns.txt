@@ -8,6 +8,7 @@
 - Delegation - делегирование
 - Event channel - канал событий
   . список подписчиков, список издатей, событие
+- Interface - интерфейс (абстракция к методам в классе)
 
 # Creational(Generating) patterns - порождающие шаблоны
 - Singleton - одиночка
