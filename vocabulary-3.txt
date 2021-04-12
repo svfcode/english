@@ -35,3 +35,4 @@ stack - стопка
 forbidden - запрещенный
 shine - сиять
 capacity - вместимость
+purge - чистка
