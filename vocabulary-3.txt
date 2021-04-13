@@ -36,3 +36,4 @@ forbidden - запрещенный
 shine - сиять
 capacity - вместимость
 purge - чистка
+verify - проверять
