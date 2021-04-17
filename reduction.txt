@@ -28,3 +28,4 @@ CI/CD - Continuous Integration / Continuous Delivery
 GRASP - General Responsibility Assignment Software Patterns - общие шаблоны распределения ответственностей
 WSDL - Web Services Description Language - язык описания веб-сервисов и доступа к ним, основанный на языке XML
 UTM - Urchin Tracking Module - еж трекинг модуль
+SDK - SoftWare Development Kit
