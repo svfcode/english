@@ -29,3 +29,4 @@ GRASP - General Responsibility Assignment Software Patterns - общие шаб�
 WSDL - Web Services Description Language - язык описания веб-сервисов и доступа к ним, основанный на языке XML
 UTM - Urchin Tracking Module - еж трекинг модуль
 SDK - SoftWare Development Kit
+DDD - Domain Driven Design - предметно-ориентированное проектирование
