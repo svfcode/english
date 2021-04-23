@@ -30,3 +30,4 @@ WSDL - Web Services Description Language - язык описания веб-се
 UTM - Urchin Tracking Module - еж трекинг модуль
 SDK - SoftWare Development Kit
 DDD - Domain Driven Design - предметно-ориентированное проектирование
+DLL - Dynamic Link Library - библиотека динамической компоновки - многократное использование различными программами
