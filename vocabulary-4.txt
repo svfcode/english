@@ -4,3 +4,4 @@ leak - протечка
 axis - ось
 stretch - растягивание
 defer - отсрочить
+pond - пруд
