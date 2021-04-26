@@ -6,3 +6,4 @@ stretch - растягивание
 defer - отсрочить
 pond - пруд
 puny - хилый
+widget - штучка
