@@ -8,3 +8,4 @@ pond - пруд
 puny - хилый
 widget - штучка
 desire - желать
+explicit - явный
