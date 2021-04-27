@@ -9,3 +9,4 @@ puny - хилый
 widget - штучка
 desire - желать
 explicit - явный
+poison - отрава
