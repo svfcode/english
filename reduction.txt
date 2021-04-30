@@ -33,3 +33,4 @@ DDD - Domain Driven Design - предметно-ориентированное �
 DLL - Dynamic Link Library - библиотека динамической компоновки - многократное использование различными программами
 HRM - Human Resource management
 ACE - ASCII Compatible Encoding — кодировка совместимая с ASCII
+ECMA - European Computer Manufacturers Association
