@@ -10,3 +10,5 @@ widget - штучка
 desire - желать
 explicit - явный
 poison - отрава
+agile - проворный
+scrum(scrimmage) - потасовка
