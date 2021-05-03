@@ -12,3 +12,4 @@ explicit - явный
 poison - отрава
 agile - проворный
 scrum(scrimmage) - потасовка
+knob - рукоятка
