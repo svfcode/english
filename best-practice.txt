@@ -1,0 +1,2 @@
+- one level embedded in method
+- avoid use else statement
