@@ -34,3 +34,5 @@ DLL - Dynamic Link Library - библиотека динамической ко�
 HRM - Human Resource management
 ACE - ASCII Compatible Encoding — кодировка совместимая с ASCII
 ECMA - European Computer Manufacturers Association
+DTO - Data Transfer Object
+CORS - Cross Origin Resource Sharing - совместное использование ресурсов между разными источниками
