@@ -15,3 +15,4 @@ scrum(scrimmage) - потасовка
 knob - рукоятка
 billing - реклама
 data persistence - сохранность данных
+bridge - мост
