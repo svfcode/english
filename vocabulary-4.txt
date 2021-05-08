@@ -16,3 +16,4 @@ knob - рукоятка
 billing - реклама
 data persistence - сохранность данных
 bridge - мост
+eloquent - красноречивый, убедительный
