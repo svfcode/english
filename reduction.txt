@@ -36,3 +36,5 @@ ACE - ASCII Compatible Encoding — кодировка совместимая с
 ECMA - European Computer Manufacturers Association
 DTO - Data Transfer Object
 CORS - Cross Origin Resource Sharing - совместное использование ресурсов между разными источниками
+IoC - Inversion of Control 
+DI - Dependency Injection
