@@ -38,3 +38,4 @@ DTO - Data Transfer Object
 CORS - Cross Origin Resource Sharing - совместное использование ресурсов между разными источниками
 IoC - Inversion of Control 
 DI - Dependency Injection
+TTL - Time To Live
