@@ -39,3 +39,4 @@ CORS - Cross Origin Resource Sharing - совместное использова
 IoC - Inversion of Control 
 DI - Dependency Injection
 TTL - Time To Live
+CSP - Content Security Policy
