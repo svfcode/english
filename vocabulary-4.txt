@@ -22,3 +22,4 @@ tinker - жестянщик
 lazy loading - загрузка по требованию
 compatible - совместимый
 errata - ошибка
+forgery - подделка
