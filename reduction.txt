@@ -43,3 +43,4 @@ CSP - Content Security Policy
 TDD - Test Driven Development
 TST - Total System Testing
 CSRF - Сross Site Request Forger - межсайтовая подделка запроса
+HMR - Hot Module Replacement - модульное обновление
