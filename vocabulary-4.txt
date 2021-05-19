@@ -25,3 +25,4 @@ errata - ошибка
 forgery - подделка
 chandelier - люстра
 firmware - прошивка
+hence - следовательно
