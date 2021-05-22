@@ -45,3 +45,4 @@ TST - Total System Testing
 CSRF - Сross Site Request Forger - межсайтовая подделка запроса
 HMR - Hot Module Replacement - модульное обновление
 IDE - Integrated Development Environment - интегрированная среда разработки
+HR - Human Resources Manager
