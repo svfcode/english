@@ -46,3 +46,4 @@ CSRF - Сross Site Request Forger - межсайтовая подделка за
 HMR - Hot Module Replacement - модульное обновление
 IDE - Integrated Development Environment - интегрированная среда разработки
 HR - Human Resources Manager
+VoIP - Voice Over IP - голосовая связь через интернет
