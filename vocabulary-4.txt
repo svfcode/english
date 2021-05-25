@@ -27,3 +27,4 @@ chandelier - люстра
 firmware - прошивка
 hence - следовательно
 defer - откладывать
+git - мерзавец
