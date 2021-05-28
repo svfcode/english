@@ -28,3 +28,10 @@ firmware - прошивка
 hence - следовательно
 defer - откладывать
 git - мерзавец
+promise - обещание
+executor - исполнитель
+pending - ожидание
+settled - завершен исполнен или отклонен
+fulfilled - исполнено успешно
+resolve - принимать решение
+rejected - отклонено
