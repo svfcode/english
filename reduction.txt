@@ -48,3 +48,4 @@ IDE - Integrated Development Environment - интегрированная сре
 HR - Human Resources Manager
 VoIP - Voice Over IP - голосовая связь через интернет
 dd - dump and die
+SEO - Search Engine Optimization
