@@ -1,2 +1,3 @@
 MVP - Minimum Viable Product - Минимально жизнеспособный продукт
 RAD - Rapid Application Development
+OCR - Optical Character Recognition
