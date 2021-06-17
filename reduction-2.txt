@@ -1,1 +1,2 @@
 MVP - Minimum Viable Product - Минимально жизнеспособный продукт
+RAD - Rapid Application Development
