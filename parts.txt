@@ -1,3 +1,11 @@
+Participle - Причастие – это неличная форма глагола
+Participle I - Причастие настоящего времени обозначает действие, проистекающее одновременно с действием, выраженным сказуемым: 
+  Look at the man crossing the street - Взгляни на человека, переходящего улицу.
+Participle II - Причастие прошедшего времени употребляется для образования совершённых (перфектных) времён. Эти времена образуются при помощи вспомогательного глагола have, has, had, will have и третьей формы глагола, т.е. причастия прошедшего времени.
+  Recently they have watched a new film. (Present Perfect) -   Они недавно посмотрели новый фильм.
+  They had watched a new film before I came. (Past Perfect) -   Они посмотрели новый фильм до того, как я пришёл.
+  They will have finished watching a new film by the time I come. (Future Perfect) -   Они закончат смотреть новый фильм к тому времени, как я приду.
+
 Passive Voice - Страдательный (пассивный) залог - be + past participle (The letter is written by me)
 
 Modal verbs - не обозначают конкретного действия или состояния, они отражают отношение к нему говорящего - Can / Could, May / Might, Must, Have to / Have got to (I can go to London.)
