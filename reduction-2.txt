@@ -2,3 +2,4 @@ MVP - Minimum Viable Product - Минимально жизнеспособный
 RAD - Rapid Application Development
 OCR - Optical Character Recognition
 RC - Remote Control
+AI - Artificial Intelligence - Искусственный интеллект
