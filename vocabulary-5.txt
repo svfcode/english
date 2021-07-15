@@ -7,3 +7,4 @@ expectation - ожидание, надежда, вероятность, упов
 maintenance - тех обслуживание
 excerpt - выписка
 foreign - сторонний
+implement - инвентарь
