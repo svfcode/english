@@ -8,3 +8,4 @@ maintenance - тех обслуживание
 excerpt - выписка
 foreign - сторонний
 implement - инвентарь
+wreak - мстить
