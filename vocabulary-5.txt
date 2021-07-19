@@ -9,3 +9,4 @@ excerpt - выписка
 foreign - сторонний
 implement - инвентарь
 wreak - мстить
+assign - назначать
