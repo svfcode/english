@@ -10,3 +10,4 @@ foreign - сторонний
 implement - инвентарь
 wreak - мстить
 assign - назначать
+batch - партия, группа, порция
