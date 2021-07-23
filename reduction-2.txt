@@ -3,3 +3,4 @@ RAD - Rapid Application Development
 OCR - Optical Character Recognition
 RC - Remote Control
 AI - Artificial Intelligence - Искусственный интеллект
+ACL - Access Control List
