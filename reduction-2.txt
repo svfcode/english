@@ -4,3 +4,4 @@ OCR - Optical Character Recognition
 RC - Remote Control
 AI - Artificial Intelligence - Искусственный интеллект
 ACL - Access Control List
+DAO - Data Access Object - CRUD методы для конкретной сущности
