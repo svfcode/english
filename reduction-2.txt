@@ -5,3 +5,9 @@ RC - Remote Control
 AI - Artificial Intelligence - Искусственный интеллект
 ACL - Access Control List
 DAO - Data Access Object - CRUD методы для конкретной сущности
+ACID - набор требований, которые обеспечивают сохранность ваших данных
+- Atomicity — Атомарность (транзакции)
+- Consistency — Согласованность (достигается за счет транзакций)
+- Isolation — Изолированность (блокировка или снапшоты)
+- Durability — Надёжность
+EOT — End Of Transaction - завершение транзакции
