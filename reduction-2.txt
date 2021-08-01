@@ -11,3 +11,4 @@ ACID - набор требований, которые обеспечивают 
 - Isolation — Изолированность (блокировка или снапшоты)
 - Durability — Надёжность
 EOT — End Of Transaction - завершение транзакции
+DB - software for sava and get big data
