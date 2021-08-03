@@ -12,3 +12,4 @@ ACID - набор требований, которые обеспечивают 
 - Durability — Надёжность
 EOT — End Of Transaction - завершение транзакции
 DB - software for sava and get big data
+ERD - entity-relationship diagram - диаграмма сущность-связь
