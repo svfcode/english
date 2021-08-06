@@ -14,3 +14,4 @@ EOT — End Of Transaction - завершение транзакции
 DB - software for sava and get big data
 ERD - entity-relationship diagram - диаграмма сущность-связь
 PSR - PHP Standards Recommendations
+YAGNI - You Aren’t Gonna Need It - Тебе это не понадобится
