@@ -16,3 +16,4 @@ ERD - entity-relationship diagram - диаграмма сущность-связ
 PSR - PHP Standards Recommendations
 YAGNI - You Aren’t Gonna Need It - Тебе это не понадобится
 SLAP - Single Level of Abstraction Principle - Принцип единого уровня абстракций
+CTO - Chief technology officer - технический директор
