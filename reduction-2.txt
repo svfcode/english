@@ -18,3 +18,4 @@ YAGNI - You Aren’t Gonna Need It - Тебе это не понадобится
 SLAP - Single Level of Abstraction Principle - Принцип единого уровня абстракций
 CTO - Chief technology officer - технический директор
 NDA - Non-disclosure agreement - Соглашение о неразглашении
+MVVM - Model-View-ViewModel - data+html+dom
