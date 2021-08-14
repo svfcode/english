@@ -15,3 +15,4 @@ throttle - дроссель, сжимать, прерывать
 constraint - принуждение, скованность
 attendance - посещаемости
 substitute - замена
+teaspot - чайник
