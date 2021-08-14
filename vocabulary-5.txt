@@ -16,3 +16,4 @@ constraint - принуждение, скованность
 attendance - посещаемости
 substitute - замена
 teaspot - чайник
+revoke - отменять
