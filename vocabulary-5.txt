@@ -20,3 +20,4 @@ revoke - отменять
 mess - беспорядок
 hamble - скромный
 acquire - получать
+bearer - носильщик
