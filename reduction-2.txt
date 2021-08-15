@@ -19,3 +19,4 @@ SLAP - Single Level of Abstraction Principle - Принцип единого у�
 CTO - Chief technology officer - технический директор
 NDA - Non-disclosure agreement - Соглашение о неразглашении
 MVVM - Model-View-ViewModel - data+html+dom
+XSS - Cross-Site Scripting — межсайтовый скриптинг
