@@ -19,3 +19,4 @@ teaspot - чайник
 revoke - отменять
 mess - беспорядок
 hamble - скромный
+acquire - получать
