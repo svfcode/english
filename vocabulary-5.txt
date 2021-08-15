@@ -18,3 +18,4 @@ substitute - замена
 teaspot - чайник
 revoke - отменять
 mess - беспорядок
+hamble - скромный
