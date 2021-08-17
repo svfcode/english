@@ -21,3 +21,4 @@ mess - беспорядок
 hamble - скромный
 acquire - получать
 bearer - носильщик
+recipient - адресат
