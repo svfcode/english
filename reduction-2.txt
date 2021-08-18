@@ -20,3 +20,4 @@ CTO - Chief technology officer - технический директор
 NDA - Non-disclosure agreement - Соглашение о неразглашении
 MVVM - Model-View-ViewModel - data+html+dom
 XSS - Cross-Site Scripting — межсайтовый скриптинг
+PKCE - Proof Key for Code Exchange
