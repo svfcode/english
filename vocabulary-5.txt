@@ -22,3 +22,8 @@ hamble - скромный
 acquire - получать
 bearer - носильщик
 recipient - адресат
+bastard - поддонок
+skinner - скорняк, жулик
+coupling - стыковка
+cohesion - спаянность
+poop - заливать корму
