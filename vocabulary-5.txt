@@ -27,3 +27,4 @@ skinner - скорняк, жулик
 coupling - стыковка
 cohesion - спаянность
 poop - заливать корму
+attendance - посещаемость
