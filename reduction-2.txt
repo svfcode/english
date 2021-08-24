@@ -21,3 +21,4 @@ NDA - Non-disclosure agreement - Соглашение о неразглашен�
 MVVM - Model-View-ViewModel - data+html+dom
 XSS - Cross-Site Scripting — межсайтовый скриптинг
 PKCE - Proof Key for Code Exchange
+UML - Unified Modeling Language — унифицированный язык моделирования
