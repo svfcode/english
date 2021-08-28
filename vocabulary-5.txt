@@ -29,3 +29,5 @@ cohesion - спаянность
 poop - заливать корму
 attendance - посещаемость
 proxy - уполномоченный
+fate - судьба
+destination - предназначение
