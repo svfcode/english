@@ -31,3 +31,4 @@ attendance - посещаемость
 proxy - уполномоченный
 fate - судьба
 destination - предназначение
+draft - проект, чертеж
