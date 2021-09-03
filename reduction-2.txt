@@ -24,3 +24,4 @@ PKCE - Proof Key for Code Exchange
 UML - Unified Modeling Language — унифицированный язык моделирования
 LSB - Late Static Binding - позднее статическое связывание
 PDO - PHP Data Objects – это прослойка, которая предлагает универсальный способ работы с несколькими базами данных
+FYI - for your information
