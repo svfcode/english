@@ -25,3 +25,4 @@ UML - Unified Modeling Language — унифицированный язык мо
 LSB - Late Static Binding - позднее статическое связывание
 PDO - PHP Data Objects – это прослойка, которая предлагает универсальный способ работы с несколькими базами данных
 FYI - for your information
+PEAR - PHP Extension and Application Repository
