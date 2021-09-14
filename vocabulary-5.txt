@@ -37,3 +37,4 @@ truncate - отсекать
 taxonomy - таксономия
 haystack - стог сена
 relay - передавать, заменять
+absent - отсутствующий
