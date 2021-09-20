@@ -26,3 +26,4 @@ LSB - Late Static Binding - позднее статическое связыва
 PDO - PHP Data Objects – это прослойка, которая предлагает универсальный способ работы с несколькими базами данных
 FYI - for your information
 PEAR - PHP Extension and Application Repository
+APC - Alternative PHP Cache — бесплатный и открытый opcode кэшер для PHP
