@@ -2,3 +2,4 @@ gracetime - благодатное время
 assert - утверждать
 enqueue - ставить в очередь
 compatible - совместимый
+revision - пересмотр
