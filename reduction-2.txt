@@ -28,3 +28,4 @@ FYI - for your information
 PEAR - PHP Extension and Application Repository
 APC - Alternative PHP Cache — бесплатный и открытый opcode кэшер для PHP
 WIP - Work In Progress
+RDBMS - stands for Relational Database Management System
