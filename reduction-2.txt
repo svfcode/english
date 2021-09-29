@@ -27,3 +27,4 @@ PDO - PHP Data Objects – это прослойка, которая предл�
 FYI - for your information
 PEAR - PHP Extension and Application Repository
 APC - Alternative PHP Cache — бесплатный и открытый opcode кэшер для PHP
+WIP - Work In Progress
