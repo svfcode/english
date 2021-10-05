@@ -5,3 +5,4 @@ compatible - совместимый
 revision - пересмотр
 absent - отсутствовать
 insomnia - бессонница
+distinct - отчетливый
