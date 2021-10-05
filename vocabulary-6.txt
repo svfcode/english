@@ -4,3 +4,4 @@ enqueue - ставить в очередь
 compatible - совместимый
 revision - пересмотр
 absent - отсутствовать
+insomnia - бессонница
