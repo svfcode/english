@@ -6,3 +6,4 @@ revision - пересмотр
 absent - отсутствовать
 insomnia - бессонница
 distinct - отчетливый
+pluck - щипать
