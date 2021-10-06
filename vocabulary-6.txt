@@ -7,3 +7,4 @@ absent - отсутствовать
 insomnia - бессонница
 distinct - отчетливый
 pluck - щипать
+descending - нисходящий
