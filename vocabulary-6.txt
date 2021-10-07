@@ -8,3 +8,4 @@ insomnia - бессонница
 distinct - отчетливый
 pluck - щипать
 descending - нисходящий
+omit - пренебрегать, упускать
