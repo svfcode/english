@@ -9,3 +9,4 @@ distinct - отчетливый
 pluck - щипать
 descending - нисходящий
 omit - пренебрегать, упускать
+conjunction - связывание
