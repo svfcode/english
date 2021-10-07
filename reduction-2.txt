@@ -30,3 +30,4 @@ APC - Alternative PHP Cache — бесплатный и открытый opcode 
 WIP - Work In Progress
 RDBMS - stands for Relational Database Management System
 gRPC - Remote Procedure Calls
+DOD - Definition Of Done
