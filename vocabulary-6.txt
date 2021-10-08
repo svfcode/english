@@ -10,3 +10,4 @@ pluck - щипать
 descending - нисходящий
 omit - пренебрегать, упускать
 conjunction - связывание
+eager - жаждущий
