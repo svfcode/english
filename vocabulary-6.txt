@@ -11,3 +11,4 @@ descending - нисходящий
 omit - пренебрегать, упускать
 conjunction - связывание
 eager - жаждущий
+retrieve - извлекать
