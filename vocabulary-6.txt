@@ -13,3 +13,4 @@ conjunction - связывание
 eager - жаждущий
 retrieve - извлекать
 shipper - грузоотправитель
+entity - сущность
