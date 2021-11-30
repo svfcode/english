@@ -21,3 +21,4 @@ boundary - рубеж
 idle - пустой, незанятый
 eager - жадный
 engage - привлекать
+constraint - ограничение
