@@ -22,3 +22,4 @@ idle - пустой, незанятый
 eager - жадный
 engage - привлекать
 constraint - ограничение
+proposal - заявка
