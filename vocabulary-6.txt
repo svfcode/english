@@ -24,3 +24,4 @@ engage - привлекать
 constraint - ограничение
 proposal - заявка
 implementation - реализация, внедрение
+intact - нетронутый
