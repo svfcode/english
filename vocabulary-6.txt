@@ -26,3 +26,4 @@ proposal - заявка
 implementation - реализация, внедрение
 intact - нетронутый
 broadcast - широковещательный
+consistently - последовательно
