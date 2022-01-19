@@ -35,3 +35,4 @@ FCM - Firebase Cloud Messaging
 WFM - Workforce Management - управление персоналом
 DDL - Data Definition Language — описание структуры баз данных
 EOL - End Of Life
+CA - Certificate Authority
