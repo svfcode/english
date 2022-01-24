@@ -27,3 +27,4 @@ implementation - реализация, внедрение
 intact - нетронутый
 broadcast - широковещательный
 consistently - последовательно
+rethinking, reconsideration - переосмысление
