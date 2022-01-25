@@ -37,3 +37,4 @@ DDL - Data Definition Language — описание структуры баз д
 EOL - End Of Life
 CA - Certificate Authority
 SSO - Single Sign-On - построение распределенных систем
+XMPP - eXtensible Messaging and Presence Protocol (jabber) - расширяемый протокол обмена сообщениями и информацией о присутствии 
