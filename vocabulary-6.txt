@@ -29,3 +29,4 @@ broadcast - широковещательный
 consistently - последовательно
 rethinking, reconsideration - переосмысление
 precision - точность
+assignment - назначение
