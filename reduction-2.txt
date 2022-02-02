@@ -38,3 +38,4 @@ EOL - End Of Life
 CA - Certificate Authority
 SSO - Single Sign-On - построение распределенных систем
 XMPP - eXtensible Messaging and Presence Protocol (jabber) - расширяемый протокол обмена сообщениями и информацией о присутствии 
+EOF - End Of File
