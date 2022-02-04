@@ -1,2 +1,3 @@
-VFS - Virtual File System
-CQRS - The Command and Query Responsibility Segregation
+- VFS - Virtual File System
+- CQRS - The Command and Query Responsibility Segregation
+- IaC - Infrastructure as Code
