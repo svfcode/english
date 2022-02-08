@@ -2,3 +2,4 @@
 - CQRS - The Command and Query Responsibility Segregation
 - IaC - Infrastructure as Code
 - OSINT - Open Source Intelligence
+- OOM - Out Of Memory
