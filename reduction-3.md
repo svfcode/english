@@ -3,3 +3,4 @@
 - IaC - Infrastructure as Code
 - OSINT - Open Source Intelligence
 - OOM - Out Of Memory
+- DHCP - Dynamic Host Configuration Protocol
