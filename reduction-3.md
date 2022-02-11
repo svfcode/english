@@ -5,3 +5,4 @@
 - OOM - Out Of Memory
 - DHCP - Dynamic Host Configuration Protocol (for wifi 192.168.x.x)
 - APIPA - Automatic Private IP Addressing (for independent net 169.254.x.x)
+- DevOps - development & operations
