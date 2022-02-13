@@ -31,3 +31,4 @@ rethinking, reconsideration - переосмысление
 precision - точность
 assignment - назначение
 broadcast - широковещание, трансляция 
+expose - раскрыть, разоблачение
