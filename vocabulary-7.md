@@ -1,3 +1,4 @@
-invitation - приглашение
-miscellaneous - разнообразный
-boilerplate - шаблонный
+- invitation - приглашение
+- miscellaneous - разнообразный
+- boilerplate - шаблонный
+- defer - откладывать
