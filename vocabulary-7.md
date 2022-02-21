@@ -2,3 +2,4 @@
 - miscellaneous - разнообразный
 - boilerplate - шаблонный
 - defer - откладывать
+- internal - внутренний 
