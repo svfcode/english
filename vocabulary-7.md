@@ -3,3 +3,4 @@
 - boilerplate - шаблонный
 - defer - откладывать
 - internal - внутренний 
+- confident - уверенный
