@@ -5,3 +5,4 @@
 - internal - внутренний 
 - confident - уверенный
 - interact - взаимодействовать
+- wipe - протирать
