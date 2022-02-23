@@ -4,3 +4,4 @@
 - defer - откладывать
 - internal - внутренний 
 - confident - уверенный
+- interact - взаимодействовать
