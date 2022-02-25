@@ -7,3 +7,4 @@
 - APIPA - Automatic Private IP Addressing (for independent net 169.254.x.x)
 - DevOps - development & operations
 - RAD - rapid application development
+- CSRF - Cross-Site Request Forgery
