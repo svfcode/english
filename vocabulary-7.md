@@ -6,3 +6,4 @@
 - confident - уверенный
 - interact - взаимодействовать
 - wipe - протирать
+- alleviates - облегчает
