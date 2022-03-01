@@ -8,3 +8,4 @@
 - wipe - протирать
 - alleviates - облегчает
 - acid - кислота
+- dedicated - выделенный
