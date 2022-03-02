@@ -8,3 +8,4 @@
 - DevOps - development & operations
 - RAD - rapid application development
 - CSRF - Cross-Site Request Forgery
+- PLM - Product Lifecycle Management — жизненный цикл продукта
