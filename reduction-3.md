@@ -10,3 +10,4 @@
 - CSRF - Cross-Site Request Forgery
 - PLM - Product Lifecycle Management — жизненный цикл продукта
 - OSI - The Open Systems Interconnection model — сетевая модель стека (магазина) сетевых протоколов
+- CQRS - The Command and Query Responsibility Segregation - принцип CQRS разделяет назначение запросов
