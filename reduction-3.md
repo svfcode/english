@@ -12,3 +12,4 @@
 - OSI - The Open Systems Interconnection model — сетевая модель стека (магазина) сетевых протоколов
 - CQRS - The Command and Query Responsibility Segregation - принцип CQRS разделяет назначение запросов
 - SRE - Site Reliability Engineer
+- CTF - Capture The Flag
