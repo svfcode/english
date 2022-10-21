@@ -13,3 +13,6 @@
 - CQRS - The Command and Query Responsibility Segregation - принцип CQRS разделяет назначение запросов
 - SRE - Site Reliability Engineer
 - CTF - Capture The Flag
+- RAM - random access memory - память с произвольной выборкой
+- ROM - read only memory
+- NoSQL - not only sql
