@@ -16,3 +16,4 @@
 - RAM - random access memory - память с произвольной выборкой
 - ROM - read only memory
 - NoSQL - not only sql
+- SSO - Single Sign-On - Технология единого входа — пользователь переходит из одного раздела портала в другой, без повторной аутентификации.
